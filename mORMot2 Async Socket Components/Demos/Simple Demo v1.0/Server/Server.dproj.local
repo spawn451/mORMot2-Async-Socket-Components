@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/27 10:23:15.000.944,=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/27 10:25:54.000.288,=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/27 10:55:32.000.004,=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/27 10:56:01.000.809,D:\_Delphi\_Library\mORMot2 Socket Components\Demos\Simple Demo\Server\Unit1.dfm=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/06/27 10:56:01.000.809,D:\_Delphi\_Library\mORMot2 Socket Components\Demos\Simple Demo\Server\Unit1.pas=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/27 10:56:17.000.791,D:\_Delphi\_Library\mORMot2 Socket Components\Demos\Simple Demo\Server\Server.dproj=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
